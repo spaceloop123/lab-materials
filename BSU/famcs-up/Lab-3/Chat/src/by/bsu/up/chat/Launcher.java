@@ -12,7 +12,7 @@ import java.util.Optional;
 import java.util.concurrent.Executors;
 
 public class Launcher {
-	//Test row
+
     private static final Log logger = Log.create(Launcher.class);
 
     public static final String HELP_COMMAND = "--help";
@@ -66,7 +66,7 @@ public class Launcher {
             logger.info(String.format("Get list of messages: " +
                     "GET http://%s:%d%s?token={token}", serverHost, port, Constants.CONTEXT_PATH));
             logger.info(String.format("Send message: " +
-                    "POST http://%s:%d%s provide body json in format {\"message\" : \"{message}\"}",
+                            "POST http://%s:%d%s provide body json in format {\"message\" : \"{message}\"}",
                     serverHost, port, Constants.CONTEXT_PATH));
 
             server.createContext(Constants.CONTEXT_PATH, new ServerHandler());

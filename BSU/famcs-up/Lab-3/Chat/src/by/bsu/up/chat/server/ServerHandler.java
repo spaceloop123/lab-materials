@@ -3,7 +3,7 @@ package by.bsu.up.chat.server;
 import by.bsu.up.chat.Constants;
 import by.bsu.up.chat.InvalidTokenException;
 import by.bsu.up.chat.logging.Logger;
-import by.bsu.up.chat.logging.impl.Log;
+import by.bsu.up.chat.logging.impl.LogFile;
 import by.bsu.up.chat.utils.MessageHelper;
 import by.bsu.up.chat.utils.StringUtils;
 import com.sun.net.httpserver.Headers;
@@ -22,12 +22,14 @@ import java.util.stream.Stream;
 
 public class ServerHandler implements HttpHandler {
 
-    private static final Logger logger = Log.create(ServerHandler.class);
+    private static final Logger logger = LogFile.create(ServerHandler.class, "serverlog.txt");
 
     private List<String> messageStorage = new ArrayList<>();
 
     @Override
     public void handle(HttpExchange httpExchange) throws IOException {
+        logger.info("request begin");
+
         Response response;
 
         try {
@@ -42,9 +44,12 @@ public class ServerHandler implements HttpHandler {
         }
         sendResponse(httpExchange, response);
 
+        logger.info("request end");
     }
 
     private Response dispatch(HttpExchange httpExchange) {
+        logger.info("method " + httpExchange.getRequestMethod());
+
         if (Constants.REQUEST_METHOD_GET.equals(httpExchange.getRequestMethod())) {
             return doGet(httpExchange);
         } else if (Constants.REQUEST_METHOD_POST.equals(httpExchange.getRequestMethod())) {
@@ -72,8 +77,15 @@ public class ServerHandler implements HttpHandler {
                         String.format("Incorrect token in request: %s. Server does not have so many messages", token));
             }
             String responseBody = MessageHelper.buildServerResponseBody(messageStorage.subList(index, messageStorage.size()), messageStorage.size());
+
+            logger.info("request method: GET");
+            logger.info("request parameters: token = " + token);
+            logger.info("response: history size = " + messageStorage.size());
+
             return Response.ok(responseBody);
         } catch (InvalidTokenException e) {
+            logger.error(e.getMessage(), e);
+
             return Response.badRequest(e.getMessage());
         }
     }
@@ -81,6 +93,9 @@ public class ServerHandler implements HttpHandler {
     private Response doPost(HttpExchange httpExchange) {
         try {
             String message = MessageHelper.getClientMessage(httpExchange.getRequestBody());
+
+            logger.info("request method: POST");
+
             logger.info(String.format("Received new message from user: %s", message));
             messageStorage.add(message);
             return Response.ok();
@@ -95,10 +110,12 @@ public class ServerHandler implements HttpHandler {
             byte[] bytes = response.getBody().getBytes();
 
             Headers headers = httpExchange.getResponseHeaders();
-            headers.add(Constants.REQUEST_HEADER_ACCESS_CONTROL,"*");
+            headers.add(Constants.REQUEST_HEADER_ACCESS_CONTROL, "*");
             httpExchange.sendResponseHeaders(response.getStatusCode(), bytes.length);
 
-            os.write( bytes);
+            logger.info("response sent");
+
+            os.write(bytes);
             // there is no need to close stream manually
             // as try-catch with auto-closable is used
             /**
@@ -128,7 +145,8 @@ public class ServerHandler implements HttpHandler {
      * {@link ServerHandler#queryToMap(String)} one, but uses
      * Java's 8 Stream API and lambda expressions
      * <p>
-     *     It's just as an example. Bu you can use it
+     * It's just as an example. Bu you can use it
+     *
      * @param query the query to be parsed
      * @return the map, containing parsed key-value pairs from request
      */

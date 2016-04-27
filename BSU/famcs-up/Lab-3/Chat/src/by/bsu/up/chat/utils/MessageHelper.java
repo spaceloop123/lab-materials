@@ -7,7 +7,9 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
-import java.io.*;
+import java.io.ByteArrayOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
 import java.util.List;
 
 public class MessageHelper {
@@ -25,16 +27,17 @@ public class MessageHelper {
      * Builds token based on amount of messages, which are
      * already stored on server side or client side.
      * <p>
-     *     E.g. Client has 5 messages. It does not want to
-     *     retrieve messages it already has. So, client
-     *     passes 5 as argument to this method, and this method
-     *     will return a token, which says to server: Just give
-     *     me all messages, but skip first 5.
-     *
+     * E.g. Client has 5 messages. It does not want to
+     * retrieve messages it already has. So, client
+     * passes 5 as argument to this method, and this method
+     * will return a token, which says to server: Just give
+     * me all messages, but skip first 5.
      * <p>
-     *     On the other hand, server passes amount of messages it has
-     *     (size of messages collection). So, client can parse
-     *     token and understand how many messages are on server side
+     * <p>
+     * On the other hand, server passes amount of messages it has
+     * (size of messages collection). So, client can parse
+     * token and understand how many messages are on server side
+     *
      * @param receivedMessagesCount amount of messages to skip.
      * @return generated token
      */
@@ -45,6 +48,7 @@ public class MessageHelper {
 
     /**
      * Parses token and extract encoded amount of messages (typically - index)
+     *
      * @param token the token to be parsed
      * @return decoded amount messages (index)
      */

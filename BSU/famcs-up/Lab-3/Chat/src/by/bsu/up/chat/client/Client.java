@@ -2,14 +2,18 @@ package by.bsu.up.chat.client;
 
 import by.bsu.up.chat.Constants;
 import by.bsu.up.chat.logging.Logger;
-import by.bsu.up.chat.logging.impl.Log;
+import by.bsu.up.chat.logging.impl.LogFile;
 import by.bsu.up.chat.utils.MessageHelper;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.ParseException;
 
-import java.io.*;
-import java.net.*;
+import java.io.IOException;
+import java.io.OutputStream;
+import java.net.ConnectException;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -18,7 +22,7 @@ public class Client {
 
     public static final long POLLING_PERIOD_MILLIS = 1000L;
 
-    private static final Logger logger = Log.create(Client.class);
+    private static final Logger logger = LogFile.create(Client.class, "clientlog.txt");
 
     private List<String> localHistory = new ArrayList<String>();
 
@@ -41,6 +45,7 @@ public class Client {
             url = new URL(Constants.PROTOCOL, host, port, Constants.CONTEXT_PATH);
             url.openConnection();   //try connect to server
             connected = true;
+            logger.info("request parameters: url: " + url);
             startListening();
             startMessageSending();
         } catch (MalformedURLException e) {
@@ -109,7 +114,11 @@ public class Client {
             Scanner scanner = new Scanner(System.in);
             while (connected) {
                 String message = scanner.nextLine();
+                logger.info("request begin");
+                logger.info("method POST");
+                logger.info(String.format("Send new message to server: %s", message));
                 sendMessage(message);
+                logger.info("request end");
             }
         };
         messageSendingThread = new Thread(messageSendingAction);
@@ -129,6 +138,9 @@ public class Client {
         List<String> list = new ArrayList<>();
         HttpURLConnection incomeConnection = null;
         try {
+            logger.info("request begin");
+            logger.info("method GET");
+            logger.info("request parameters: token = " + MessageHelper.buildToken(localHistory.size()));
 
             String query = String.format("%s?%s=%s", Constants.CONTEXT_PATH, Constants.REQUEST_PARAM_TOKEN, MessageHelper.buildToken(localHistory.size()));
             URL url = new URL(Constants.PROTOCOL, host, port, query);
@@ -159,6 +171,7 @@ public class Client {
         } finally {
             if (incomeConnection != null) {
                 incomeConnection.disconnect();
+                logger.info("request end");
             }
         }
 
@@ -169,12 +182,17 @@ public class Client {
         checkConnected();
         HttpURLConnection outcomeConnection = null;
         try {
+            logger.info("request begin");
+            logger.info("request method: POST");
+
             outcomeConnection = prepareOutputConnection();
             byte[] buffer = MessageHelper.buildSendMessageRequestBody(message).getBytes();
             OutputStream outputStream = outcomeConnection.getOutputStream();
             outputStream.write(buffer, 0, buffer.length);
             outputStream.close();
             outcomeConnection.getInputStream(); //to send data to server
+
+            logger.info("request message: " + message);
         } catch (ConnectException e) {
             logger.error("Connection error. Disconnecting...", e);
             disconnect();
@@ -183,6 +201,7 @@ public class Client {
         } finally {
             if (outcomeConnection != null) {
                 outcomeConnection.disconnect();
+                logger.info("request end");
             }
         }
     }
