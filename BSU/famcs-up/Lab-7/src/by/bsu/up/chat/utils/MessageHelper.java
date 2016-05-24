@@ -111,8 +111,35 @@ public class MessageHelper {
         return jsonObject.toJSONString();
     }
 
-    public static Message getClientMessage(InputStream inputStream) throws ParseException {
+    public static Message getClientMessage(InputStream inputStream, String type) throws ParseException {
         JSONObject jsonObject = stringToJsonObject(inputStreamToString(inputStream));
+        switch (type) {
+            case Constants.REQUEST_METHOD_DELETE:
+                return onDeleteRequest(jsonObject);
+            case Constants.REQUEST_METHOD_PUT:
+                return onPutRequest(jsonObject);
+            default:
+                return onGetRequest(jsonObject);
+        }
+    }
+
+    private static Message onPutRequest(JSONObject jsonObject) {
+        String id = ((String) jsonObject.get(Constants.Message.FIELD_ID));
+        String text = ((String) jsonObject.get(Constants.Message.FIELD_TEXT));
+        Message message = new Message();
+        message.setId(id);
+        message.setText(text);
+        return message;
+    }
+
+    private static Message onDeleteRequest(JSONObject jsonObject) {
+        String id = ((String) jsonObject.get(Constants.Message.FIELD_ID));
+        Message message = new Message();
+        message.setId(id);
+        return message;
+    }
+
+    private static Message onGetRequest(JSONObject jsonObject) {
         String id = ((String) jsonObject.get(Constants.Message.FIELD_ID));
         String author = ((String) jsonObject.get(Constants.Message.FIELD_AUTHOR));
         long timestamp = ((long) jsonObject.get(Constants.Message.FIELD_TIMESTAMP));

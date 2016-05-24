@@ -3,18 +3,24 @@ package by.bsu.up.chat.storage;
 import by.bsu.up.chat.common.models.Message;
 import by.bsu.up.chat.logging.Logger;
 import by.bsu.up.chat.logging.impl.Log;
+import by.bsu.up.chat.storage.listener.JSONListener;
+import by.bsu.up.chat.storage.listener.Listener;
 
-import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
 public class InMemoryMessageStorage implements MessageStorage {
 
-    private static final String DEFAULT_PERSISTENCE_FILE = "messages.srg";
+    private static final String DEFAULT_PERSISTENCE_FILE = "files/messages.json";
 
     private static final Logger logger = Log.create(InMemoryMessageStorage.class);
 
     private List<Message> messages = new ArrayList<>();
+    private Listener listener = new JSONListener();
+
+    public InMemoryMessageStorage() {
+        readMessages();
+    }
 
     @Override
     public synchronized List<Message> getPortion(Portion portion) {
@@ -33,20 +39,47 @@ public class InMemoryMessageStorage implements MessageStorage {
     @Override
     public void addMessage(Message message) {
         messages.add(message);
+        listener.write(DEFAULT_PERSISTENCE_FILE, messages);
     }
 
     @Override
     public boolean updateMessage(Message message) {
-        throw new UnsupportedOperationException("Update for messages is not supported yet");
+        for (Message item : messages) {
+            if (message.getId().equals(item.getId())) {
+                item.setText(message.getText()); //timestamp should changed either
+
+                logger.info("Update message " + item);
+
+                listener.write(DEFAULT_PERSISTENCE_FILE, messages);
+
+                return true;
+            }
+        }
+        return false;
     }
 
     @Override
     public synchronized boolean removeMessage(String messageId) {
-        throw new UnsupportedOperationException("Removing of messages is not supported yet");
+        for (Message item : messages) {
+            if (messageId.equals(item.getId())) {
+                messages.remove(item);
+
+                logger.info("Removed message " + item);
+
+                listener.write(DEFAULT_PERSISTENCE_FILE, messages);
+
+                return true;
+            }
+        }
+        return false;
     }
 
     @Override
     public int size() {
         return messages.size();
+    }
+
+    private synchronized void readMessages() {
+        listener.read(DEFAULT_PERSISTENCE_FILE, messages);
     }
 }

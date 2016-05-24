@@ -1,133 +1,780 @@
-27/04/2016 11:16:29[by.bsu.up.chat.client.Client] request parameters: url: http://localhost:999/chat
-27/04/2016 11:16:29[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:29[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:29[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:30[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:31[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:31[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:31[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:31[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:32[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:32[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:32[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:32[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:33[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:33[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:33[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:33[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:34[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:34[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:34[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:34[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:35[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:35[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:35[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:35[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:36[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:36[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:36[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:36[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:37[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:37[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:37[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:37[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:38[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:38[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:38[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:38[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:39[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:39[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:39[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:39[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:40[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:40[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:40[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:40[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:41[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:41[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:41[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:41[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:42[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:42[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:42[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:42[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:43[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:43[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:43[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:43[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:44[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:44[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:44[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:44[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:45[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:45[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:45[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:45[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:46[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:46[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:46[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:46[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:47[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:47[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:47[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:47[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:48[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:48[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:48[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:48[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:49[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:49[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:49[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:49[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:50[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:50[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:50[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:50[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:51[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:51[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:51[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:51[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:52[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:52[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:52[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:52[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:53[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:53[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:53[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:53[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:54[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:54[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:54[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:54[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:55[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:55[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:55[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:55[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:56[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:56[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:56[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:56[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:57[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:57[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:57[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:57[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:58[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:58[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:58[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:58[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:16:59[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:16:59[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:16:59[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:16:59[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:17:00[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:17:00[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:17:00[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:17:00[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:17:01[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:17:01[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:17:01[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:17:01[by.bsu.up.chat.client.Client] request end
-27/04/2016 11:17:02[by.bsu.up.chat.client.Client] request begin
-27/04/2016 11:17:02[by.bsu.up.chat.client.Client] method GET
-27/04/2016 11:17:02[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
-27/04/2016 11:17:02[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:31:49[by.bsu.up.chat.client.Client] request parameters: url: http://localhost:999/chat
+22/05/2016 01:31:49[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:31:49[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:31:49[by.bsu.up.chat.client.Client] request parameters: token = TN11EN
+22/05/2016 01:31:49[by.bsu.up.chat.client.Client] Message from server: yo
+22/05/2016 01:31:49[by.bsu.up.chat.client.Client] Message from server: test
+22/05/2016 01:31:49[by.bsu.up.chat.client.Client] Message from server: pisya
+22/05/2016 01:31:49[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:31:50[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:31:50[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:31:50[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:31:50[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:31:51[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:31:51[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:31:51[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:31:51[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:31:52[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:31:52[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:31:52[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:31:52[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:31:53[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:31:53[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:31:53[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:31:53[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:31:54[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:31:54[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:31:54[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:31:54[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:31:55[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:31:55[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:31:55[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:31:55[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:31:56[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:31:56[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:31:56[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:31:56[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:31:57[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:31:57[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:31:57[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:31:57[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:31:58[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:31:58[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:31:58[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:31:58[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:31:59[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:31:59[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:31:59[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:31:59[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:00[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:00[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:00[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:00[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:01[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:01[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:01[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:01[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:02[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:02[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:02[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:02[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:03[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:03[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:03[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:03[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:04[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:04[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:04[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:04[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:05[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:05[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:05[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:05[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:06[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:06[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:06[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:06[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:07[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:07[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:07[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:07[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:08[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:08[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:08[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:08[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:09[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:09[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:09[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:09[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:10[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:10[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:10[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:10[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:11[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:11[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:11[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:11[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:12[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:12[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:12[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:12[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:13[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:13[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:13[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:13[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:14[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:14[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:14[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:14[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:15[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:15[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:15[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:15[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:16[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:16[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:16[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:16[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:17[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:17[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:17[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:17[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:18[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:18[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:18[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:18[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:19[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:19[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:19[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:19[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:20[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:20[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:20[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:20[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:21[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:21[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:21[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:21[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:22[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:22[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:22[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:22[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:23[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:23[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:23[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:23[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:24[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:24[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:24[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:24[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:25[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:25[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:25[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:25[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:26[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:26[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:26[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:26[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:27[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:27[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:27[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:27[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:28[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:28[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:28[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:28[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:29[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:29[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:29[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:29[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:30[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:30[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:30[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:30[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:31[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:31[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:31[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:31[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:32[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:32[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:32[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:32[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:33[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:33[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:33[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:33[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:34[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:34[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:34[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:34[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:35[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:35[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:35[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:35[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:36[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:36[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:36[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:36[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:37[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:37[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:37[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:37[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:38[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:38[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:38[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:38[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:39[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:39[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:39[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:39[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:40[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:40[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:40[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:40[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:41[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:41[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:41[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:41[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:42[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:42[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:42[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:42[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:43[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:43[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:43[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:43[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:44[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:44[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:44[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:44[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:45[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:45[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:45[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:45[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:46[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:46[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:46[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:46[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:47[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:47[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:47[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:47[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:48[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:48[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:48[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:48[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:49[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:49[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:49[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:49[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:50[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:50[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:50[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:50[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:51[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:51[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:51[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:51[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:52[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:52[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:52[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:52[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:53[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:53[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:53[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:53[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:54[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:54[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:54[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:54[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:55[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:55[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:55[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:55[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:56[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:56[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:56[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:56[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:57[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:57[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:57[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:57[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:58[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:58[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:58[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:58[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:32:59[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:32:59[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:32:59[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:32:59[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:00[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:00[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:00[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:00[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:01[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:01[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:01[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:01[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:02[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:02[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:02[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:02[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:03[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:03[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:03[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:03[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:04[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:04[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:04[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:04[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:05[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:05[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:05[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:05[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:06[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:06[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:06[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:06[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:07[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:07[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:07[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:07[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:08[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:08[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:08[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:08[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:09[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:09[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:09[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:09[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:10[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:10[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:10[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:10[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:11[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:11[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:11[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:11[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:12[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:12[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:12[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:12[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:13[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:13[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:13[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:13[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:14[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:14[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:14[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:14[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:15[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:15[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:15[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:15[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:16[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:16[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:16[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:16[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:17[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:17[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:17[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:17[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:18[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:18[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:18[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:18[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:19[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:19[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:19[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:19[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:20[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:20[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:20[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:20[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:21[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:21[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:21[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:21[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:22[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:22[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:22[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:22[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:23[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:23[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:23[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:23[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:24[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:24[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:24[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:24[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:25[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:25[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:25[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:25[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:26[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:26[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:26[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:26[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:27[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:27[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:27[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:27[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:28[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:28[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:28[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:28[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:29[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:29[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:29[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:29[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:30[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:30[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:30[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:30[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:31[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:31[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:31[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:31[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:32[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:32[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:32[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:32[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:33[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:33[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:33[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:33[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:34[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:34[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:34[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:34[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:35[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:35[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:35[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:35[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:36[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:36[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:36[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:36[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:37[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:37[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:37[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:37[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:38[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:38[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:38[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:38[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:39[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:39[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:39[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:39[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:40[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:40[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:40[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:40[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:41[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:41[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:41[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:41[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:42[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:42[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:42[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:42[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:43[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:43[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:43[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:43[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:44[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:44[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:44[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:44[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:45[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:45[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:45[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:45[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:46[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:46[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:46[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:46[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:47[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:47[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:47[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:47[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:48[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:48[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:48[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:48[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:49[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:49[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:49[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:49[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:50[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:50[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:50[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:50[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:51[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:51[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:51[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:51[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:52[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:52[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:52[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:52[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:53[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:53[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:53[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:53[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:54[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:54[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:54[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:54[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:55[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:55[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:55[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:55[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:56[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:56[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:56[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:56[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:57[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:57[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:57[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:57[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:58[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:58[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:58[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:58[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:33:59[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:33:59[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:33:59[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:33:59[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:00[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:00[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:00[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:00[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:01[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:01[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:01[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:01[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:02[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:02[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:02[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:02[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:03[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:03[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:03[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:03[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:04[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:04[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:04[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:04[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:05[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:05[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:05[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:05[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:06[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:06[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:06[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:06[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:07[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:07[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:07[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:07[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:08[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:08[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:08[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:08[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:09[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:09[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:09[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:09[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:10[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:10[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:10[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:10[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:11[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:11[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:11[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:11[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:12[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:12[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:12[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:12[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:13[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:13[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:13[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:13[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:14[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:14[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:14[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:14[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:15[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:15[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:15[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:15[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:16[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:16[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:16[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:16[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:17[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:17[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:17[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:17[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:18[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:18[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:18[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:18[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:19[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:19[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:19[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:19[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:20[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:20[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:20[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:20[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:21[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:21[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:21[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:21[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:22[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:22[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:22[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:22[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:23[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:23[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:23[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:23[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:24[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:24[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:24[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:24[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:25[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:25[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:25[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:25[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:26[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:26[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:26[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:26[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:27[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:27[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:27[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:27[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:28[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:28[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:28[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:28[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:29[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:29[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:29[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:29[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:30[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:30[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:30[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:30[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:31[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:31[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:31[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:31[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:32[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:32[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:32[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:32[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:33[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:33[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:33[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:33[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:34[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:34[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:34[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:34[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:35[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:35[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:35[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:35[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:36[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:36[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:36[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:36[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:37[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:37[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:37[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:37[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:38[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:38[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:38[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:38[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:39[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:39[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:39[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:39[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:40[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:40[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:40[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:40[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:41[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:41[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:41[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:41[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:42[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:42[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:42[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:42[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:43[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:43[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:43[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:43[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:44[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:44[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:44[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:44[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:45[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:45[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:45[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:46[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:47[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:47[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:47[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:47[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:48[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:48[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:48[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:48[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:49[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:49[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:49[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:49[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:50[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:50[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:50[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:50[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:51[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:51[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:51[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:51[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:52[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:52[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:52[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:52[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:53[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:53[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:53[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:53[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:54[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:54[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:54[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:54[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:55[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:55[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:55[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:55[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:56[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:56[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:56[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:56[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:57[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:57[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:57[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:57[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:58[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:58[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:58[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:58[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:34:59[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:34:59[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:34:59[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:34:59[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:35:00[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:35:00[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:35:00[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:35:00[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:35:01[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:35:01[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:35:01[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:35:01[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:35:02[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:35:02[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:35:02[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:35:02[by.bsu.up.chat.client.Client] request end
+22/05/2016 01:35:03[by.bsu.up.chat.client.Client] request begin
+22/05/2016 01:35:03[by.bsu.up.chat.client.Client] method GET
+22/05/2016 01:35:03[by.bsu.up.chat.client.Client] request parameters: token = TN35EN
+22/05/2016 01:35:03[by.bsu.up.chat.client.Client] request end
