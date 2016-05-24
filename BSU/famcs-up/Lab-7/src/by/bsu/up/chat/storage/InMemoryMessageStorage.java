@@ -50,6 +50,8 @@ public class InMemoryMessageStorage implements MessageStorage {
 
                 logger.info("Update message " + item);
 
+                
+
                 listener.write(DEFAULT_PERSISTENCE_FILE, messages);
 
                 return true;
