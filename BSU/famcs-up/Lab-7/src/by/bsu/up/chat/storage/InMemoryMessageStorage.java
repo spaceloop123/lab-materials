@@ -47,10 +47,9 @@ public class InMemoryMessageStorage implements MessageStorage {
         for (Message item : messages) {
             if (message.getId().equals(item.getId())) {
                 item.setText(message.getText()); //timestamp should changed either
+                item.setEdited(true);
 
                 logger.info("Update message " + item);
-
-                
 
                 listener.write(DEFAULT_PERSISTENCE_FILE, messages);
 
@@ -64,7 +63,8 @@ public class InMemoryMessageStorage implements MessageStorage {
     public synchronized boolean removeMessage(String messageId) {
         for (Message item : messages) {
             if (messageId.equals(item.getId())) {
-                messages.remove(item);
+                //messages.remove(item);
+                item.setRemoved(true);
 
                 logger.info("Removed message " + item);
 

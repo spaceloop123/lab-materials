@@ -114,7 +114,6 @@ public class ServerHandler implements HttpHandler {
     }
 
     private Response doDelete(HttpExchange httpExchange) {
-        //return Response.withCode(Constants.RESPONSE_CODE_NOT_IMPLEMENTED);
         try {
             Message message = MessageHelper.getClientMessage(httpExchange.getRequestBody(), Constants.REQUEST_METHOD_DELETE);
             logger.info(String.format("Received new message from user: %s", message));

@@ -29,7 +29,7 @@ public class JSONListener implements Listener {
     public void read(String fileName, List<Message> list) {
         try (Reader inputStreamReader = new InputStreamReader(new FileInputStream(fileName))) {
             List<Message> listItems = Collections.synchronizedList(gson.fromJson(new JsonReader(inputStreamReader), itemsListType));
-            listItems.forEach(list::add);
+            list.addAll(listItems);
         } catch (FileNotFoundException e) {
             logger.error("File " + fileName + " not found", e);
         } catch (IOException e) {
